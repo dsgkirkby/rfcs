@@ -1,3 +1,5 @@
+Note: abandoned in favour of https://github.com/eslint/eslint/issues/11222
+
 - Start Date: 2019-02-18
 - RFC PR: (leave this empty, to be filled in later)
 - Authors: @dsgkirkby
